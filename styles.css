@@ -10,11 +10,13 @@
     background: #ddd;
   }
   .content {
-    display: flex;
+    disp
+    lay: flex;
     align-items: center;
     flex-direction: column;
     background: #ddd;
   }
+
   #start-btn {
     font-size: 36px;
     padding: 20px 40px 20px 80px ;
